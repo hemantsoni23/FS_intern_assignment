@@ -43,7 +43,7 @@ This project is a full-stack web application developed using ReactJS and Materia
 ## Deployment
 
 The project is deployed on Vercel for both frontend and backend. The live link to the application is:
-Live Link
+[Live Link](https://fs-intern-assignment.vercel.app/)
 
 Installation and Setup
 
